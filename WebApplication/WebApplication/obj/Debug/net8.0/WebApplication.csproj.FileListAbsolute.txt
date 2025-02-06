@@ -1,0 +1,8 @@
+C:\Development\Octopus\MyFirstProject\WebApplication\WebApplication\obj\Debug\net8.0\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Octopus\MyFirstProject\WebApplication\WebApplication\obj\Debug\net8.0\WebApplication.AssemblyInfoInputs.cache
+C:\Development\Octopus\MyFirstProject\WebApplication\WebApplication\obj\Debug\net8.0\WebApplication.AssemblyInfo.cs
+C:\Development\Octopus\MyFirstProject\WebApplication\WebApplication\obj\Debug\net8.0\WebApplication.csproj.CoreCompileInputs.cache
+C:\Development\Octopus\MyFirstProject\WebApplication\WebApplication\obj\Debug\net8.0\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Development\Octopus\MyFirstProject\WebApplication\WebApplication\obj\Debug\net8.0\WebApplication.RazorAssemblyInfo.cache
+C:\Development\Octopus\MyFirstProject\WebApplication\WebApplication\obj\Debug\net8.0\WebApplication.RazorAssemblyInfo.cs
+C:\Development\Octopus\MyFirstProject\WebApplication\WebApplication\obj\Debug\net8.0\WebApplication.sourcelink.json
